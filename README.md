@@ -27,3 +27,8 @@ apollo is fully of library to provide every thing we use for basic server with n
 ### Refference
   https://www.youtube.com/watch?v=n1mdAPFq2Os&list=WL&index=4
 
+
+
+!! warning for my self
+   - don't forget change ip SOCIAL-MEDIA-APP to 0.0.0.0 for access data
+   - start server heruko for test this project 
