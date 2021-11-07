@@ -30,5 +30,4 @@ apollo is fully of library to provide every thing we use for basic server with n
 
 
 !! warning for my self
-   - don't forget change ip SOCIAL-MEDIA-APP to 0.0.0.0 for access data
-   - start server heruko for test this project 
+   - don't forget change ip SOCIAL-MEDIA-APP to 0.0.0.0 for access data in heroku server
