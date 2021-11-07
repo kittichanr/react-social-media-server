@@ -13,7 +13,7 @@ const typeDefs = require('./graphql/typeDefs')
 const resolvers = require('./graphql/resolvers')
 const { MONGODB } = require('./config')
 
-const PORT = precess.env.PORT || 4000
+const PORT = process.env.PORT || 4000
 
 async function startApolloServer(typeDefs, resolvers) {
     const app = express();
